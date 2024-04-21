@@ -1,0 +1,22 @@
+<map id="include/nlohmann/detail/input/binary_reader.hpp" name="include/nlohmann/detail/input/binary_reader.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,5,315,46"/>
+<area shape="rect" id="Node000002" href="$binary__writer_8hpp.html" title=" " alt="" coords="95,94,259,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,60,192,95,188,92,212,57"/>
+<area shape="rect" id="Node000004" href="$json_8hpp.html" title=" " alt="" coords="157,271,333,297"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="259,59,273,93,278,145,273,196,262,240,252,272,247,270,257,239,267,195,273,145,268,95,254,61"/>
+<area shape="rect" id="Node000003" href="$serializer_8hpp.html" title=" " alt="" coords="50,183,208,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,150,142,184,137,181,156,147"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="203,147,222,182,238,230,246,270,240,271,232,232,217,184,198,149"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,230,228,269,225,273,168,234"/>
+<area shape="rect" id="Node000005" href="$_scene_8hpp.html" title=" " alt="" coords="130,345,258,371"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="230,311,205,346,201,343,226,308"/>
+<area shape="rect" id="Node000009" href="$_scene_8cpp.html" title=" " alt="" coords="243,419,348,444"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="259,311,273,344,295,418,290,419,268,346,254,313"/>
+<area shape="rect" id="Node000006" href="$_application_8hpp.html" title=" " alt="" coords="63,419,219,444"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="178,385,152,420,148,417,174,381"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="225,378,280,416,277,420,222,382"/>
+<area shape="rect" id="Node000007" href="$_application_8cpp.html" title=" " alt="" coords="5,492,138,518"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="121,457,85,494,81,490,117,453"/>
+<area shape="rect" id="Node000008" href="$main_8cpp.html" title=" " alt="" coords="162,492,258,518"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="165,453,200,490,197,494,161,457"/>
+</map>

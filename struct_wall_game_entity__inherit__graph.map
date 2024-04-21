@@ -1,0 +1,7 @@
+<map id="WallGameEntity" name="WallGameEntity">
+<area shape="rect" id="Node000001" title="Represents a wall entity within the game." alt="" coords="22,507,155,652"/>
+<area shape="rect" id="Node000002" href="$struct_game_entity.html" title="Base class for all game entities, managing components and entity behaviors." alt="" coords="11,133,167,459"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,474,91,507,86,507,86,474"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,172,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,100,91,134,86,134,86,100"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Collision2DComponent" name="Collision2DComponent">
+<area shape="rect" id="Node000001" title="Represents a 2D collision component in a game." alt="" coords="5,259,179,524"/>
+<area shape="rect" id="Node000002" href="$struct_component.html" title="Abstract base class for all components in a game entity system." alt="" coords="31,5,153,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,226,95,259,89,259,89,226"/>
+</map>

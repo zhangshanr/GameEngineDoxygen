@@ -1,0 +1,5 @@
+<map id="TransformComponent" name="TransformComponent">
+<area shape="rect" id="Node000001" title="Component that manages the position, size, and transformation of game entities." alt="" coords="5,259,171,524"/>
+<area shape="rect" id="Node000002" href="$struct_component.html" title="Abstract base class for all components in a game entity system." alt="" coords="27,5,149,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,226,91,259,85,259,85,226"/>
+</map>

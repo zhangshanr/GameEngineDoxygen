@@ -1,0 +1,38 @@
+<map id="include/nlohmann/detail/output/output_adapters.hpp" name="include/nlohmann/detail/output/output_adapters.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,5,489,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,102,80,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,46,203,68,93,97,86,99,85,93,91,91,201,63,305,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,102,168,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,49,181,97,178,98,176,93,179,91,326,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,102,253,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,49,262,97,259,92,356,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="278,102,346,127"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="380,48,336,92,332,88,376,45"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="371,102,424,127"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="400,47,400,86,395,86,395,47"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="449,102,506,127"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="417,45,458,89,454,92,413,48"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="530,102,568,127"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="435,44,519,91,516,96,432,49"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="592,102,661,127"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="453,44,581,92,585,93,583,98,579,96,451,49"/>
+<area shape="rect" id="Node000010" href="$macro__scope_8hpp.html" title=" " alt="" coords="685,94,837,135"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="481,44,670,89,669,94,480,49"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="450,190,502,216"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="685,135,603,157,515,185,513,186,511,181,514,180,601,152,684,130"/>
+<area shape="rect" id="Node000012" href="$detected_8hpp.html" title=" " alt="" coords="526,183,671,223"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="726,138,650,177,647,173,723,133"/>
+<area shape="rect" id="Node000015" href="$abi__macros_8hpp.html" title=" " alt="" coords="587,360,720,401"/>
+<area shape="poly" id="edge16_Node000010_Node000015" title=" " alt="" coords="756,136,737,184,686,313,671,347,666,345,681,311,732,182,751,134"/>
+<area shape="rect" id="Node000016" href="$hedley_8hpp.html" title=" " alt="" coords="747,183,882,223"/>
+<area shape="poly" id="edge15_Node000010_Node000016" title=" " alt="" coords="776,134,797,168,792,171,771,137"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="906,190,966,216"/>
+<area shape="poly" id="edge17_Node000010_Node000017" title=" " alt="" coords="802,133,899,181,897,185,800,138"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="989,190,1053,216"/>
+<area shape="poly" id="edge18_Node000010_Node000018" title=" " alt="" coords="832,133,978,180,981,181,979,186,976,185,830,138"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="420,279,502,305"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="569,226,495,273,492,268,566,222"/>
+<area shape="rect" id="Node000014" href="$void__t_8hpp.html" title=" " alt="" coords="526,271,671,312"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="601,224,601,256,596,256,596,224"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="613,311,635,345,630,348,609,314"/>
+</map>

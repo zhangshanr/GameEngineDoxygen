@@ -1,0 +1,3 @@
+<map id="Scene" name="Scene">
+<area shape="rect" id="Node000001" title="Represents a scene in the game, managing all entities, interactions, and states within it." alt="" coords="5,5,201,271"/>
+</map>

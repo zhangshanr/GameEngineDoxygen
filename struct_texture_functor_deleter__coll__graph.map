@@ -1,0 +1,3 @@
+<map id="TextureFunctorDeleter" name="TextureFunctorDeleter">
+<area shape="rect" id="Node000001" title="Functor for safely deleting SDL_Texture objects." alt="" coords="5,5,147,71"/>
+</map>

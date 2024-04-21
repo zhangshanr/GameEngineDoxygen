@@ -1,0 +1,7 @@
+<map id="detail::iter_impl&lt; BasicJsonType &gt;" name="detail::iter_impl&lt; BasicJsonType &gt;">
+<area shape="rect" id="Node000001" title="a template for a bidirectional iterator for the basic_json class This class implements a both iterato..." alt="" coords="29,547,147,847"/>
+<area shape="rect" id="Node000002" href="$structdetail_1_1internal__iterator.html" title=" " alt="" coords="5,354,171,484"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,484,91,531,85,531,85,484"/>
+<area shape="rect" id="Node000003" href="$classdetail_1_1primitive__iterator__t.html" title=" " alt="" coords="9,5,167,291"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,291,91,337,85,337,85,291"/>
+</map>

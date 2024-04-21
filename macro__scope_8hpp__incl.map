@@ -1,0 +1,20 @@
+<map id="include/nlohmann/detail/macro_scope.hpp" name="include/nlohmann/detail/macro_scope.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,5,425,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,102,87,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,46,186,68,99,97,98,97,96,92,98,91,184,63,267,41"/>
+<area shape="rect" id="Node000003" href="$detected_8hpp.html" title=" " alt="" coords="111,94,257,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,49,235,89,233,84,308,44"/>
+<area shape="rect" id="Node000006" href="$abi__macros_8hpp.html" title=" " alt="" coords="172,271,305,312"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="341,47,322,95,272,224,256,258,252,256,267,222,317,93,336,45"/>
+<area shape="rect" id="Node000007" href="$hedley_8hpp.html" title=" " alt="" coords="332,94,468,135"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="361,45,382,79,378,82,356,48"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="492,102,551,127"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="387,44,484,92,482,97,385,49"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="574,102,639,127"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="417,44,563,91,567,93,565,98,562,97,415,49"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,190,88,216"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="154,137,80,184,77,179,151,133"/>
+<area shape="rect" id="Node000005" href="$void__t_8hpp.html" title=" " alt="" coords="111,183,257,223"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,135,187,167,181,167,181,135"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="198,222,220,257,216,260,194,225"/>
+</map>

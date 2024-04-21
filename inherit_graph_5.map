@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$struct_component.html" title="Abstract base class for all components in a game entity system." alt="" coords="5,80,94,106"/>
+<area shape="rect" id="Node000001" href="$struct_collision2_d_component.html" title="Represents a 2D collision component in a game." alt="" coords="142,5,297,31"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="84,69,141,40,169,29,171,34,143,45,86,74"/>
+<area shape="rect" id="Node000002" href="$struct_input_component.html" title="Component responsible for handling input&#45;related functionality for an entity." alt="" coords="161,55,278,80"/>
+<area shape="poly" id="edge6_Node000000_Node000002" title=" " alt="" coords="109,81,160,74,161,79,109,87"/>
+<area shape="rect" id="Node000003" href="$struct_texture_component.html" title="Manages textures for game entities, handling texture loading and rendering." alt="" coords="154,104,285,130"/>
+<area shape="poly" id="edge7_Node000000_Node000003" title=" " alt="" coords="110,99,154,105,153,110,109,104"/>
+<area shape="rect" id="Node000004" href="$struct_transform_component.html" title="Component that manages the position, size, and transformation of game entities." alt="" coords="146,153,293,179"/>
+<area shape="poly" id="edge8_Node000000_Node000004" title=" " alt="" coords="87,111,143,140,171,150,169,155,141,145,84,116"/>
+</map>

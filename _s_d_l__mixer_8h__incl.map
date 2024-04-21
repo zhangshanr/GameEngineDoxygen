@@ -1,0 +1,9 @@
+<map id="include/SDL3_mixer/SDL_mixer.h" name="include/SDL3_mixer/SDL_mixer.h">
+<area shape="rect" id="Node000001" title="Header file for SDL_mixer library." alt="" coords="140,5,278,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,101,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,49,92,89,89,84,169,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,94,293,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,46,212,78,206,78,206,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="317,94,485,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,44,359,85,357,90,256,49"/>
+</map>
